@@ -12,4 +12,14 @@
 -   Write report
 
 
+## To do:
+1. Identify gold standard salmonella reads - to be used for initial assembly pipeline development.
+2. 
 
+
+
+
+
+´´´
+conda install -c bioconda abyss
+´´´
